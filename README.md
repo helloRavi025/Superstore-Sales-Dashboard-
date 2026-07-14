@@ -6,8 +6,7 @@ The objective of this project is to design an interactive, single-page Excel das
 ## Dataset Used
 - <a href="https://github.com/helloRavi025/Superstore-Sales-Dashboard-/blob/main/Superstore%20Data.xlsx">dataset</a>
 ## Dashboard image 
-- <a href="https://github.com/helloRavi025/Superstore-Sales-Dashboard-/blob/main/image.jpeg">dataset</a>
- (&nbsp;)
+- <a href="https://github.com/helloRavi025/Superstore-Sales-Dashboard-/blob/main/image.jpeg">Dashbard</a>
 
 # 💡 Business Questions Answered
 ### 1. How much revenue does the store generate, and what's the typical order size?
