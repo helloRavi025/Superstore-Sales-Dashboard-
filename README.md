@@ -1,2 +1,2 @@
-# Superstore-Sales-Dashboard-
-I developed a comprhensive project in Excel, creating multiple dashboards and tables to analyze the data. this process involved several stages, Including data preprocessing, data cleaning, and data visualization.
+##📊 Super Store Sales Dashboard
+An interactive Excel dashboard built to analyze Superstore's sales performance across regions, product categories, shipping modes, and time — enabling quick, data-driven business decisions through dynamic slicers and visual KPIs.
