@@ -17,4 +17,4 @@ New York City leads clearly with 179,105.33 in sales — more than triple the ne
 Office Supplies leads with 382 transactions, far ahead of Technology (136) and Furniture (126) — suggesting frequent, high-volume, lower-ticket purchases in this category.
 ### 5. How does demand fluctuate through the year, and who buys the most?
 Quantity ordered peaks sharply in September (261 units), followed by a steep drop in October (74 units) — indicating strong seasonality. By customer type, the Consumer segment orders the highest quantity, ahead of Corporate and Home Office buyers.
-
+## Ultimately, this dashboard transforms raw transactional sales data into a decision-support tool, helping business teams quickly answer "what's happening" and "where to focus next" — all from a single view.
