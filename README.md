@@ -6,4 +6,8 @@ The objective of this project is to design an interactive, single-page Excel das
 ## Dataset Used
 - <a href="https://github.com/helloRavi025/Superstore-Sales-Dashboard-/blob/main/Dashboard.xlsx">dataset</a>
 #📌 Key Metrics at a Glance
-MetricValueTotal Sales4,09,984Sales Average636.62Total Quantity1,650Total Transactions2,102
+Metric               Value
+Total Sales          4,09,984
+Sales Average        636.62
+Total Quantity       1,650
+Total Transactions   2,102
