@@ -6,9 +6,15 @@ The objective of this project is to design an interactive, single-page Excel das
 ## Dataset Used
 - <a href="https://github.com/helloRavi025/Superstore-Sales-Dashboard-/blob/main/Dashboard.xlsx">dataset</a>
 
-# 📌 Key Metrics at a Glance
-Metric               Value
-Total Sales          4,09,984
-Sales Average        636.62
-Total Quantity       1,650
-Total Transactions   2,102
+# 💡 Business Questions Answered
+### 1. How much revenue does the store generate, and what's the typical order size?
+The store recorded total sales of 4,09,984 across 2,102 transactions, with an average sale value of 636.62 per order — a quick pulse check on overall business volume and order value.
+2. Which shipping mode do customers prefer most?
+Standard Class dominates at 32% of all shipments, followed by First Class (21%) and Same Day (18%). Second Class, at just 9%, is the least used — useful for optimizing logistics and delivery partnerships.
+3. Which city is the top revenue driver?
+New York City leads clearly with 179,105.33 in sales — more than triple the next highest city, Philadelphia (48,847.75). This highlights where marketing and inventory efforts could be concentrated.
+4. Which product category sees the most customer activity?
+Office Supplies leads with 382 transactions, far ahead of Technology (136) and Furniture (126) — suggesting frequent, high-volume, lower-ticket purchases in this category.
+5. How does demand fluctuate through the year, and who buys the most?
+Quantity ordered peaks sharply in September (261 units), followed by a steep drop in October (74 units) — indicating strong seasonality. By customer type, the Consumer segment orders the highest quantity, ahead of Corporate and Home Office buyers.
+
